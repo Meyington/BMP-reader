@@ -45,3 +45,6 @@ qemu-riscv64 ./bmp_reader_riscv example.bmp
 ## Requirements
 * C compiler (e.g., GCC, Clang)
 * QEMU for emulating ARM and RISC-V architectures
+
+##  License
+This project is licensed under the MIT License - see the LICENSE file for details.
